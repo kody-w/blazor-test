@@ -1,0 +1,21 @@
+{
+  "FilePath": "/Users/kodyw/Developer/blazor/blazor.csproj",
+  "Configuration": {
+    "ConfigurationName": "Blazor-0.1",
+    "LanguageVersion": "Experimental",
+    "Extensions": [
+      {
+        "ExtensionName": "Blazor.AngleSharp-0.1"
+      },
+      {
+        "ExtensionName": "Blazor-0.1"
+      }
+    ]
+  },
+  "ProjectWorkspaceState": {
+    "TagHelpers": [],
+    "CSharpLanguageVersion": 703
+  },
+  "RootNamespace": "blazor",
+  "Documents": []
+}
